@@ -15,3 +15,9 @@ struct mr_pApp: App {
         }
     }
 }
+
+struct mr_pApp_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
+}

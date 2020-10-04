@@ -35,7 +35,7 @@
 /* Begin PBXFileReference section */
 		59AC602525289AC500F9E9A3 /* mr.p.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mr.p.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59AC602825289AC500F9E9A3 /* mr_pApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mr_pApp.swift; sourceTree = "<group>"; };
-		59AC602A25289AC500F9E9A3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		59AC602A25289AC500F9E9A3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; wrapsLines = 1; };
 		59AC602C25289AC500F9E9A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59AC602F25289AC500F9E9A3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		59AC603125289AC500F9E9A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
