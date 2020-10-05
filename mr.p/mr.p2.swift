@@ -19,6 +19,13 @@ struct mr_p2: View {
                     .frame(minWidth: 0, maxWidth: .infinity)
                     .edgesIgnoringSafeArea(.all)
                     .offset(x: 215, y: 0)
+                
+                Text("快來海之霸！")
+                    .font(.system(size: 40))
+                    .fontWeight(.black)
+                    .multilineTextAlignment(.center)
+                    .position(x: 222, y: 210)
+                    .shadow(radius: 10)
             }
             
             Group{ //mr.p
